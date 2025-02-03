@@ -1,4 +1,4 @@
-## Welcome along development journey 👋
+## Welcome along my to development journey 👋
 
 - 🌱 I’m currently learning ...
   - Python
